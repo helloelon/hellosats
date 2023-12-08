@@ -716,6 +716,7 @@ div {
 .wrap-content .content:nth-child(2) {
   flex: 2;
   width: 100%;
+  text-align: center;
 }
 
 .wrap-content .title,
@@ -747,6 +748,7 @@ div {
 
 .wrap-content .des {
   font-size: 20px;
+  text-align: left;
 }
 
 ul.link-dex {
